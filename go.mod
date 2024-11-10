@@ -1,4 +1,4 @@
-module github.com/moulco/moul
+module github.com/moul-co/moul
 
 go 1.14
 
