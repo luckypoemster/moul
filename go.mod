@@ -1,4 +1,4 @@
-module github.com/moul-co/moul
+module github.com/luckypoemster/moul
 
 go 1.14
 
